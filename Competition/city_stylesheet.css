@@ -1,0 +1,15 @@
+.intro {
+  margin:20px; font-family: cursive;
+}
+
+.row {
+  margin: 10px; font-family: fashion; font-size: 12pt;
+}
+
+.row:hover {
+  background-color: #FFB6C1;
+}
+
+.intro:hover {
+  background-color: #FFB6C1;
+}
