@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Paris</title>
+  <link rel="stylesheet" type ="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/city_stylesheet.css">
+  <meta name = "viewport" content = "width=device-width,initial-scale=1.0">
+</head>
+
+<body>
+  <h1>Bon Voyage to Paris! </h1>
+
+  <div class="intro">
+    <p>Paris - the majestic capital of art, fashion, gastronomy and culture. </br>
+      Be immersed in the culture as you pass by the Eiffel Tower, Louvre, and Notre Dame and feast on croissant, caviar, and ratatouille. </br>
+    Be careful of spending way too much euros and always be aware of your surroundings! </p>
+  </div>
+
+
+  <div class="row">
+          <h2> We Recommend...</h2>
+    <div class="col-sm-4">
+      <img class="img-circle" height=300 src='downloads/Eiffel.jpg'>
+      <p class="text-center">The Eiffel Tower</p>
+    </div>
+    <div  class="col-sm-4">
+      <img  class="img-circle" height=300 src='*INSERT LINK TO IMAGE*'>
+      <p class="text-center">The Louvre</p>
+    </div>
+    <div class="col-sm-4">
+      <img  class="img-circle" height=300 src='downloads/Eiffel.jpg'>
+      <p class="text-center">The Arc Triomphe</p>
+    </div>
+    <p> Make sure you don't miss these famous sites! </p>
+      <div>
+        <h2>Solo female tips</h2>
+        <ol>
+          <li>Stay in an all-female room at a hostel!</li>
+          <li>Have a lock on your bag when you're walking around Paris!</li>
+          <li>Separate your "small" money (coins) from your "large" money (notes) with two different wallets!</li>
+        </ol>
+      </div>
+
+      <div>
+        <h2>Food and drinks</h2>
+        <p> Paris is of course, a great place for French food. </br>
+          But looking for something different? </br>
+          After you check out the Louvre, try heading to the area near the Pyramides station to find authentic Japanese food!
+        </p>
+        <ul>
+          <li>Sanukiya - Michelin recommended every year since 2009 and rated 4.5 on tripadvisor. If you're looking for udon noodles, they're the best! </li>
+          <li>Aki Boulanger - check this place out for Japanese cakes and baked goods! </li>
+          <li>Momen'Tea - best place for a warm matcha tea after a long walk </li>
+        </ul>
+      </div>
+
+      <div>
+        <h2>Nightlife</h2>
+        <p> The bars and clubs in Paris are amazing - but expensive! </br>
+        Be careful with your money and do not be too intoxicated as it may attract thieves at the RER. </p>
+      </div>
+
+      <div>
+        <h2>Transport</h2>
+        <p> Use the RER to go around Paris! </br>
+          It's very easy and cheap (the ticket machine is in English) </br>
+          Here are the 3 airports and instructions on how to get to the center of Paris:
+          <ol>
+            <li> Charles de Gaulle: Take RER B to Gare du Nord (North Station) </li>
+            <li> Orly: Take RER C </li>
+            <li> Le Bourget: Take the bus 350 towards Gare de l'Est (East Station) </li>
+          </ol>
+        </p>
+      </div>
+
+    </body>
