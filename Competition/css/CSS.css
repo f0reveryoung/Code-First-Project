@@ -1,0 +1,50 @@
+
+/* an id example, '#', can only be defined once. */
+#blueberry {
+  color: lightblue; /* alternatively, #123456 format in hex */
+}
+
+/* a class example, '.', can be defined multiple times. */
+.blueberries {
+  color: lightblue; /* alternatively, #123456 format in hex */
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.myimages {
+    width: 50px;
+    height: 50px;
+}
+
+p {
+text-align: right;
+}
+span.s-left {
+float: left;
+}
+
+p {
+text-align: right;
+}
+span.s-left {
+float: left;
+}
+
+ul {
+  white-space: nowrap;
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
