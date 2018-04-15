@@ -13,3 +13,27 @@
 .intro:hover {
   background-color: #FFB6C1;
 }
+#lists ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+#lists li {
+    float: left;
+}
+
+#lists li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+#lists li a:hover {
+    background-color: black;
+}
