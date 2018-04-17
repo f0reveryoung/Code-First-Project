@@ -1,13 +1,4 @@
 
-/* an id example, '#', can only be defined once. */
-#blueberry {
-  color: lightblue; /* alternatively, #123456 format in hex */
-}
-
-/* a class example, '.', can be defined multiple times. */
-.blueberries {
-  color: lightblue; /* alternatively, #123456 format in hex */
-}
 
 img {
     border-radius: 50%;
